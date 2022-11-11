@@ -20,6 +20,7 @@ A curated list of awesome iCal resources.
 - Google Calendar：点击右上角的齿轮按钮，选择「设置」，然后在侧边栏依次点击「添加日历 - 浏览感兴趣的日历」
 - [iCalShare](http://icalshare.com/)：iCal 共享网站
 - [Sky Sports](https://www.skysports.com/)：体育赛事，[教程](https://www.skysports.com/calendars)，[中文教程](https://sspai.com/post/43209)
+- [Stanze](https://www.stanza.co/)：体育赛事，付费
 
 ## 节假日
 
@@ -38,16 +39,25 @@ A curated list of awesome iCal resources.
 | 德国节日         | [ics](webcal://p10-calendars.icloud.com/holiday/DE_de.ics)                                                                                                                                                                                                 |
 | 英国节日         | [ics](webcal://p10-calendars.icloud.com/holiday/GB_en.ics)                                                                                                                                                                                                 |
 
+## 学校
+
+| 功能                 | 订阅地址                                                                                                                                                          | 备注         |
+| :------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------- |
+| NUS Calendar         | [ics](webcal://p206-caldav.icloud.com.cn/published/2/MTEzMzAxODkxNDYxMTMzMDjXQLkASir3dvm3oy-13LlX0ETOKUmxyOsDRjExFpVmh5xIbnmxPUPUrvuKS9eWt14n1koEyd44rrP3tAcNdiA) | 2022 -- 2025 |
+| NUS Computing Events | [ics](https://events.comp.nus.edu.sg/calfeed/calendar-master-ical.ics) [url](https://events.comp.nus.edu.sg/)                                                     |              |
+
 ## 其它
 
-| 功能     | 订阅地址                                                                                            | 备注 |
-| :------- | :-------------------------------------------------------------------------------------------------- | :--- |
-| 游戏上新 | [ics](https://raw.githubusercontent.com/toosean/ChinaPublicCalendar/master/Calendar/GameLaunch.ics) |
+| 功能        | 订阅地址                                                                                                         | 备注                                   |
+| :---------- | :--------------------------------------------------------------------------------------------------------------- | :------------------------------------- |
+| 农历        | [ics](http://www.google.com/calendar/ical/ug2j3l2nqq7uch3m9n0pm5t2lo@group.calendar.google.com/public/basic.ics) | Google                                 |
+| 影视上新    | [ics](https://link.zhihu.com/?target=https%3A//calendar.google.com/calendar/ical/291ig4cijjnirlc6krcopq5gj4%2540group.calendar.google.com/public/basic.ics)                       | 知乎用户 wolf3c 维护，电影、美剧、英剧 |
+| 22 年世界杯 | [ics](webcal://www.skysports.com/calendars/football/fixtures/competitions/world-cup?live=false)                  |                                        |
 
 ## 过时链接
 
-| 功能              | 订阅地址                                                                                                                                               | 备注                   |
-| :---------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------- |
-| 二十四节气        | [ics](https://raw.github.com/infinet/lunar-calendar/master/chinese_lunar_prev_year_next_year.ics), [github](https://github.com/infinet/lunar-calendar) | --2015，有重新生成代码 |
-| iCal 集合         | [github](https://github.com/toosean/ChinaPublicCalendar)                                                                                               | 过时                   |
-| Bilibili 追番日历 | [homepage](https://hi94740.gitee.io/calendar-feeds-ui/)                                                                                                | 无法使用               |
+| 功能              | 订阅地址                                                                                                                                               | 备注                    |
+| :---------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------- | :---------------------- |
+| 二十四节气        | [ics](https://raw.github.com/infinet/lunar-calendar/master/chinese_lunar_prev_year_next_year.ics), [github](https://github.com/infinet/lunar-calendar) | -- 2015，有重新生成代码 |
+| iCal 集合         | [github](https://github.com/toosean/ChinaPublicCalendar)                                                                                               | 过时                    |
+| Bilibili 追番日历 | [homepage](https://hi94740.gitee.io/calendar-feeds-ui/)                                                                                                | 无法使用                |
