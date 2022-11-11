@@ -48,11 +48,11 @@ A curated list of awesome iCal resources.
 
 ## 其它
 
-| 功能        | 订阅地址                                                                                                         | 备注                                   |
-| :---------- | :--------------------------------------------------------------------------------------------------------------- | :------------------------------------- |
-| 农历        | [ics](http://www.google.com/calendar/ical/ug2j3l2nqq7uch3m9n0pm5t2lo@group.calendar.google.com/public/basic.ics) | Google                                 |
-| 影视上新    | [ics](https://link.zhihu.com/?target=https%3A//calendar.google.com/calendar/ical/291ig4cijjnirlc6krcopq5gj4%2540group.calendar.google.com/public/basic.ics)                       | 知乎用户 wolf3c 维护，电影、美剧、英剧 |
-| 22 年世界杯 | [ics](webcal://www.skysports.com/calendars/football/fixtures/competitions/world-cup?live=false)                  |                                        |
+| 功能        | 订阅地址                                                                                                                 | 备注                                   |
+| :---------- | :----------------------------------------------------------------------------------------------------------------------- | :------------------------------------- |
+| 农历        | [ics](http://www.google.com/calendar/ical/ug2j3l2nqq7uch3m9n0pm5t2lo@group.calendar.google.com/public/basic.ics)         | Google                                 |
+| 影视上新    | [ics](https://calendar.google.com/calendar/ical/291ig4cijjnirlc6krcopq5gj4%40group.calendar.google.com/public/basic.ics) | 知乎用户 wolf3c 维护，电影、美剧、英剧 |
+| 22 年世界杯 | [ics](webcal://www.skysports.com/calendars/football/fixtures/competitions/world-cup?live=false)                          |                                        |
 
 ## 过时链接
 
