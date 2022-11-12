@@ -54,13 +54,15 @@ A curated list of awesome iCal resources.
 
 ## 其它
 
-| 功能                 | 订阅地址                                                                                                                 | 备注                                   |
-| :------------------- | :----------------------------------------------------------------------------------------------------------------------- | :------------------------------------- |
-| 农历                 | [ics](http://www.google.com/calendar/ical/ug2j3l2nqq7uch3m9n0pm5t2lo@group.calendar.google.com/public/basic.ics)         | Google                                 |
-| 中国地区月相         | [ics](https://calendar.google.com/calendar/ical/ht3jlfaac5lfd6263ulfh4tql8%40group.calendar.google.com/public/basic.ics) | Google                                 |
-| 影视上新             | [ics](https://calendar.google.com/calendar/ical/291ig4cijjnirlc6krcopq5gj4%40group.calendar.google.com/public/basic.ics) | 知乎用户 wolf3c 维护，电影、美剧、英剧 |
-| 22 年世界杯          | [ics](webcal://www.skysports.com/calendars/football/fixtures/competitions/world-cup?live=false)                          |                                        |
-| 第三世界国家大选日期 | [ics](webcal://www.ndi.org/global-elections-calendar.ics)                                                                |                                        |
+| 功能                 | 订阅地址                                                                                                                                                          | 备注                                   |
+| :------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------- |
+| 农历                 | [ics](http://www.google.com/calendar/ical/ug2j3l2nqq7uch3m9n0pm5t2lo@group.calendar.google.com/public/basic.ics)                                                  | Google                                 |
+| 中国地区月相         | [ics](https://calendar.google.com/calendar/ical/ht3jlfaac5lfd6263ulfh4tql8%40group.calendar.google.com/public/basic.ics)                                          | Google                                 |
+| 影视上新             | [ics](https://calendar.google.com/calendar/ical/291ig4cijjnirlc6krcopq5gj4%40group.calendar.google.com/public/basic.ics)                                          | 知乎用户 wolf3c 维护，电影、美剧、英剧 |
+| 22 年世界杯          | [ics](webcal://www.skysports.com/calendars/football/fixtures/competitions/world-cup?live=false)                                                                   |                                        |
+| 第三世界国家大选日期 | [ics](webcal://www.ndi.org/global-elections-calendar.ics)                                                                                                         |                                        |
+| 国际纪念活动         | [ics](webcal://p206-caldav.icloud.com.cn/published/2/MTEzMzAxODkxNDYxMTMzMDjXQLkASir3dvm3oy-13LlhgOsAZffAke5ZXm6FCVGin-Jg85ddzvhu5XYShynL1U3RVzQedQN_0jBElOfEK4w) | 国际日、国际周，2023--                 |
+| 中国纪念活动         | [ics](webcal://p206-caldav.icloud.com.cn/published/2/MTEzMzAxODkxNDYxMTMzMDjXQLkASir3dvm3oy-13Lm-S9F7TdiJzK7Wqvu6o7blZakFsklHF55ped_hRF_71JS4rWbrMeS2jP7cehD2DBM) | 2023--                                 |
 
 ## 过时链接
 
