@@ -61,8 +61,9 @@ A curated list of awesome iCal resources.
 | 影视上新             | [ics](https://calendar.google.com/calendar/ical/291ig4cijjnirlc6krcopq5gj4%40group.calendar.google.com/public/basic.ics)                                          | 知乎用户 wolf3c 维护，电影、美剧、英剧 |
 | 22 年世界杯          | [ics](webcal://www.skysports.com/calendars/football/fixtures/competitions/world-cup?live=false)                                                                   |                                        |
 | 第三世界国家大选日期 | [ics](webcal://www.ndi.org/global-elections-calendar.ics)                                                                                                         |                                        |
-| 国际纪念活动         | [ics](webcal://p206-caldav.icloud.com.cn/published/2/MTEzMzAxODkxNDYxMTMzMDjXQLkASir3dvm3oy-13LlhgOsAZffAke5ZXm6FCVGin-Jg85ddzvhu5XYShynL1U3RVzQedQN_0jBElOfEK4w) | 国际日、国际周，2023--                 |
-| 中国纪念活动         | [ics](webcal://p206-caldav.icloud.com.cn/published/2/MTEzMzAxODkxNDYxMTMzMDjXQLkASir3dvm3oy-13Lm-S9F7TdiJzK7Wqvu6o7blZakFsklHF55ped_hRF_71JS4rWbrMeS2jP7cehD2DBM) | 2023--                                 |
+| 国际纪念活动         | [ics](webcal://p206-caldav.icloud.com.cn/published/2/MTEzMzAxODkxNDYxMTMzMDjXQLkASir3dvm3oy-13LlhgOsAZffAke5ZXm6FCVGin-Jg85ddzvhu5XYShynL1U3RVzQedQN_0jBElOfEK4w) | 国际日、国际周，2023--2030             |
+| 中国纪念活动         | [ics](webcal://p206-caldav.icloud.com.cn/published/2/MTEzMzAxODkxNDYxMTMzMDjXQLkASir3dvm3oy-13Lm-S9F7TdiJzK7Wqvu6o7blZakFsklHF55ped_hRF_71JS4rWbrMeS2jP7cehD2DBM) | 2023--2030                             |
+| AI 会议 Deadline     | [ics](https://aideadlin.es/ai-deadlines.ics), [url](https://aideadlin.es/)                                                                                        |                                        |
 
 ## 过时链接
 
